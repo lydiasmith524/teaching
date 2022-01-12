@@ -1,4 +1,5 @@
 # Teaching Tools
 
-Build a House: Snap - https://youtu.be/x_BBC323QcU <br />
-Breakdancer: Snap - https://youtu.be/tAkrRzLuJF0 <br />
+1. Build a House: Snap - https://youtu.be/x_BBC323QcU   <br />
+2. Breakdancer: Snap - https://youtu.be/tAkrRzLuJF0     <br />
+3. Quest Worksheet: Kangaroo, Grasshopper, Bee - https://youtu.be/1exNo0koH0c  <br />
