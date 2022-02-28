@@ -10,3 +10,4 @@
 8. If Else: Ball and Target - https://youtu.be/iI2OnXsgCQY  <br />
 9. Nested If/Else: Penguin Swim in Ocean - https://youtu.be/dZE1z9Mbc9A  <br />
 10. Compound Conditionals: Buried Treasure - https://youtu.be/ICCcvkotcWo <br />
+11. Paint a Picture - https://youtu.be/UOmFYu6ZHco  <br />
