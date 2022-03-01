@@ -11,3 +11,4 @@
 9. Nested If/Else: Penguin Swim in Ocean - https://youtu.be/dZE1z9Mbc9A  <br />
 10. Compound Conditionals: Buried Treasure - https://youtu.be/ICCcvkotcWo <br />
 11. Paint a Picture - https://youtu.be/UOmFYu6ZHco  <br />
+12. Stepping through lists - https://youtu.be/3ao30cZAi8c   <br />
